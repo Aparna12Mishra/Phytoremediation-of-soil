@@ -20,8 +20,8 @@ Our proposed solution centers around implementing alternate cropping techniques,
 Our project implementation involves detailed research, collaboration with agricultural experts, and pilot testing to validate the effectiveness of sunflower cultivation in reducing soil contamination.
 
 ## Links
-🚀https://www.tinkercad.com/things/6FqjZLOxMLO-led-soil-sensor🚀
-🚀https://www.tinkercad.com/things/411ony9iEVi-soil-sensor🚀
+https://www.tinkercad.com/things/6FqjZLOxMLO-led-soil-sensor🚀
+https://www.tinkercad.com/things/411ony9iEVi-soil-sensor🚀
 
 ## Contribution & Collaboration
 Contributions, insights, and collaborations from agricultural experts, environmentalists, and stakeholders are welcome to enhance the project's efficacy and broaden its impact.
