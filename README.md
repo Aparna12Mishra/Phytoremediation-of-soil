@@ -21,7 +21,7 @@ Our project implementation involves detailed research, collaboration with agricu
 
 ## Links
 🚀https://www.tinkercad.com/things/6FqjZLOxMLO-led-soil-sensor🚀
-  🚀https://www.tinkercad.com/things/411ony9iEVi-soil-sensor🚀
+🚀https://www.tinkercad.com/things/411ony9iEVi-soil-sensor🚀
 
 ## Contribution & Collaboration
 Contributions, insights, and collaborations from agricultural experts, environmentalists, and stakeholders are welcome to enhance the project's efficacy and broaden its impact.
