@@ -1,11 +1,3 @@
-
-/*
- 
- All the resources for this project:
- http://randomnerdtutorials.com/
- 
-*/
-
 #include <LiquidCrystal.h>         
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2); //Digital pins to which you connect the LCD
